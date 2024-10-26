@@ -1,3 +1,5 @@
 rootProject.name = 'MinecraftRepository-Gradle'
 include 'MinecraftFabricMods'
+include 'MinecraftPlugins'
+include 'MinecraftSpigotPlugins'
 
